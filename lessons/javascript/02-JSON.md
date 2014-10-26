@@ -1,7 +1,7 @@
 ---
-layout: topic
-title: Topic Title
-minutes: M
+layout: lesson
+title: JSON
+minutes: mm
 ---
 > ## Learning Objectives {.objectives}
 >
